@@ -7,9 +7,11 @@
   </a
 </h1>
 
-I'm a passionate Software Engineer with 4 years of experience specializing in front-end development. I build engaging and user-friendly web applications using modern technologies.
+
 
 ## 🚀 About Me
+
+I'm a passionate Software Engineer with 4 years of experience specializing in front-end development. I build engaging and user-friendly web applications using modern technologies.
 
 With a strong background in React.js and Next.js, I've worked on diverse projects, including dynamic web applications and complex systems. Currently, I'm contributing to the development of **Career Zenith**, a comprehensive job portal. My expertise spans various tools and technologies, and I thrive in collaborative environments where I can leverage my skills to drive innovation.
 
