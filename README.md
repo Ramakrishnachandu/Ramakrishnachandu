@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;+Frontend+Developer;&center=true&size=31">
   </a
 </h1>
+
 I'm a passionate Software Engineer with 4 years of experience specializing in front-end development. I build engaging and user-friendly web applications using modern technologies.
 
 ## 🚀 About Me
