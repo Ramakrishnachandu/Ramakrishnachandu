@@ -7,8 +7,6 @@
   </a
 </h1>
 
-
-
 ## 🚀 About Me
 
 I'm a passionate Software Engineer with 4 years of experience specializing in front-end development. I build engaging and user-friendly web applications using modern technologies.
@@ -40,6 +38,6 @@ With a strong background in React.js and Next.js, I've worked on diverse project
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/krish4u/)
 - [Email](mailto:ramakrishnachadnu43@gmail.com)
 
