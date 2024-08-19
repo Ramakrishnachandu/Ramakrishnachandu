@@ -35,6 +35,17 @@ With a strong background in React.js and Next.js, I've worked on diverse project
 ## 🌱 What I’m Learning
 
 - Exploring advanced concepts in microservices architecture and optimizing front-end performance.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ramakrishnachandu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ramakrishnachandu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramakrishnachandu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ramakrishnachandu&limit=6&theme=dark&combine_all_yearly_contributions=true)<br/>
+
+### My GitHub Activity
+
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramakrishnachandu&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
 
 ## 📫 Get in Touch
 
